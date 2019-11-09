@@ -1,7 +1,7 @@
-# Pima-Diabetes-Prediction
+# Diabetes-Diagnosing-with-ML
 Diabeties Prediction Model from pima data set
 
-## pima dataset :
+##  dataset :
 ### Original Owners: 
 National Institute of Diabetes and Digestive and Kidney Diseases 
 
